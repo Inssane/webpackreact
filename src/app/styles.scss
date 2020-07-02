@@ -1,0 +1,15 @@
+.test {
+  padding: 10px;
+
+  &__button {
+    margin-left: 10px;
+  }
+}
+
+.logo {
+  background-image: url('../assets/logo');
+  width: 500px;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
